@@ -4,6 +4,7 @@ Here a project I had a lot of fun playing with. Its a JQuery terminal made to si
 
 Hope you like it as much as I did.
 
+<img src=https://github.com/KarlosIII/TerminalResume/blob/main/TerminalDemo.png/>
 
 
 
